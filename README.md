@@ -11,14 +11,14 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<h1 align="center">AzBotz</h1>
+<h1 align="center">Lord All Bott</h1>
 
 
 <p align="center">
   <a href="https://ibb.co/QQX130c"><img src="https://i.ibb.co/TBVZ0YH/thumb.jpg" alt="Velgrynd"></a>
 </p>
 
-# AzBotz
+# Botxz Lord
 Simple Rpg WhatsApp Bot
 
 <a href="https://github.com/Dawnfrosty/Mike-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Dawnfrosty/Mike-bot?label=Forks&color=blue&style=flat-square"></a>
