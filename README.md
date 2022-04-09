@@ -204,10 +204,10 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/dashboard)
 > npm install && npm update
 ```
 
-## AzRyCb stat
-![Ra Github stat](https://github-readme-stats.vercel.app/api?username=AzRyCb&theme=midnight-purple&show_icons=true) 
+## devbotmail stat
+![Ra Github stat](https://github-readme-stats.vercel.app/api?username=devbotmail&theme=midnight-purple&show_icons=true) 
 
-![Ra Github troppy](https://github-profile-trophy.vercel.app/?username=AzRyCb&theme=monokai)
+![Ra Github troppy](https://github-profile-trophy.vercel.app/?username=devbotmail&theme=monokai)
 
 ## Thanks To
 * [`@adiwajshing/baileys-md`](https://github.com/adiwajshing/baileys/tree/multi-device)
@@ -231,7 +231,7 @@ Thanks For Donate
 boleh di hapus maupun di tambahkan
  [![Nurutomo](https://github.com/nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Hyzerr](https://github.com/Hyzerr.png?size=100)](https://github.com/Hyzerr) | [![AzRy](https://github.com/AzRyCb.png?size=100)](https://github.com/AzRyCb) | [![Arya](https://github.com/devbotmail.png?size=100)](https://github.com/devbotmail)
 ----|----|----|----
-[Nurutomo](https://github.com/Nurutomo) | [Hyzerr](https://github.com/Hyzerr) | [AzRy](https://github.com/AzRyCb) | [LordArya](https://github.com/devbotmail)
+[Nurutomo](https://github.com/Nurutomo) | [Hyzerr](https://github.com/Hyzerr) | [AzRy](https://github.com/AzRyCb) | [Lordnya-devbotmail](https://github.com/devbotmail)
  Penulis / Pencipta | Penulis ulang | Owner Bot |Partner
 
 
